@@ -1,5 +1,5 @@
 ## Hi there 👋
-[[![roadmap.sh](https://roadmap.sh/card/wide/66ebf244b32bbae9e214fc08?variant=dark)]]
+[roadmap.sh](https://roadmap.sh/card/wide/66ebf244b32bbae9e214fc08?variant=dark)
 <!--
 **DevelSSN/DevelSSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
